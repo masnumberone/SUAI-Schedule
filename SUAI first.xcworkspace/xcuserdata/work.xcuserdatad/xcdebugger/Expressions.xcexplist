@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ScheduleViewController.tableView(_:numberOfRowsInSection:):ScheduleViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ScheduleViewController.collectionView(_:shouldHighlightItemAt:):ScheduleViewController+UICellViewDataSource.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cell.isSelected">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SchedulePresenter.configureCellPair(_:_:):SchedulePresenter.swift">
+      </ContextState>
+      <ContextState
+         contextName = "TabBarController.viewDidLoad():TabBarController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "SUAI.instance()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AppDelegate.application(_:didFinishLaunchingWithOptions:):AppDelegate.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "SUAI.instance()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SchedulePresenter.getDayName(blueDay:):SchedulePresenter.swift">
+      </ContextState>
+      <ContextState
+         contextName = "SchedulePresenter.didLoadSchedule(_:):SchedulePresenter.swift">
+      </ContextState>
+      <ContextState
+         contextName = "__pthread_kill:(null)">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in Array&lt;&#x3c4;_0_0&gt;.getTeachersString():ENUM.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "teacher.firstIndex(of: Character(&quot;-&quot;))">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SchedulePresenter.configureNumberOfSection():SchedulePresenter.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "scheduleBlueList.count + scheduleRedList.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ScheduleViewController.tableView(_:cellForRowAt:):ScheduleViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "presenter?.countPairAt(blueDay: indexPath.section)">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath.row + 1 == presenter?.countPairAt(blueDay: indexPath.section)">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+            <PersistentString
+               value = "(indexPath.row + 1) == presenter?.countPairAt(blueDay: indexPath.section)">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath.section">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SUAIScheduleProvider loadScheduleFor:ofType:success:fail:]:SUAIScheduleProvider.m">
+      </ContextState>
+      <ContextState
+         contextName = "ScheduleViewController.viewDidLoad():ScheduleViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "presenter">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ScheduleViewController.collectionView(_:didSelectItemAt:):ScheduleViewController+UICellViewDataSource.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ScheduleViewController.numberOfSections(in:):ScheduleViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "presenter">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
